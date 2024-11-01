@@ -1,4 +1,4 @@
-# Sample .NET App - ASP.NET Core
+## Sample .NET App - ASP.NET Core
 
 [![CircleCI Build Status](https://app.circleci.com/pipelines/github/CircleCI-Public/dotnet-sample-cfd)](https://app.circleci.com/pipelines/github/CircleCI-Public/dotnet-sample-cfd) [![Software License](https://img.shields.io/badge/license-MIT-blue.svg)](https://app.circleci.com/pipelines/github/CircleCI-Public/dotnet-sample-cfd)
 
